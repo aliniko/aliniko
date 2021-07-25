@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#I'm Ali 
+# I'm Ali 
 
 <p>
 I'm a full-stack web developer with high problem-solving skills in software development, content management and salesman. I'm a lifelong learner and love to turn ideas into reality. Currently I'm discovering the power of Reactjs and the fundamentals of PHP.
