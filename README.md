@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!-- 
 ### All my projects
   <table>
     <thead>
@@ -201,3 +201,4 @@ Here are some ideas to get you started:
     </tbody> 
   </table> 
 
+ -->
